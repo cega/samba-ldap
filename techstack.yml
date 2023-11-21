@@ -1,0 +1,18 @@
+repo_name: cega/samba-ldap
+report_id: 7b4964361f63b7db8bf5f0ed379dd05c
+repo_type: Public
+timestamp: '2023-11-21T12:19:13+00:00'
+requested_by: andrespp
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
